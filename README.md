@@ -22,8 +22,7 @@ The goal of this project is to build, train, and evaluate a machine learning mod
 
 ## 🧠 Machine Learning
 
-- **Model Used**: Logistic Regression / Random Forest / SVM / [Your Model]  
-- **Accuracy**: XX%  
+- **Model Used**: Logistic Regression / Random Forest / SVM / Random Forest etc.
 - **Libraries**:  
   - scikit-learn  
   - pandas  
